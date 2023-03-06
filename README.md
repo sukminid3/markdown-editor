@@ -5,3 +5,4 @@
 3. Bundling and transpiling code directly in the browser. This is a task normally done by running Webpack and babel at your terminl. 
 4. Deploy the project using a multi-package architecture to NPM, where it can be easily downloaded and run the project.
   
+## Install
